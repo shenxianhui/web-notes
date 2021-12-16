@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-13 16:50:36
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-15 15:50:54
+ * @LastEditTime: 2021-12-16 09:43:53
  * @Description: CSS 选择器
 -->
 
@@ -185,14 +185,14 @@ div:first-child {
 ```
 
 ## 常用伪类选择器总结
-|选择器|示例|说明|
-|-|-|-|
-|:first-child|p:first-child|选择所有 p 元素的第一个子元素|
-|:last-child|p:last-child|选择所有 p 元素的最后一个子元素|
-|:first-of-type|p:first-of-type|选择的每个 p 元素是其父元素的第一个 p 元素|
-|:last-of-type|p:last-of-type|选择每个p元素是其母元素的最后一个p元素|
-|:not(selector)|:not(p)|选择所有p以外的元素|
-|:nth-child(n)|p:nth-child(2)|选择所有 p 元素的父元素的第二个子元素|
-|:nth-last-child(n)|p:nth-last-child(2)|选择所有p元素倒数的第二个子元素|
-|:nth-last-of-type(n)|p:nth-last-of-type(2)|选择所有p元素倒数的第二个为p的子元素|
-|:nth-of-type(n)|p:nth-of-type(2)|选择所有p元素第二个为p的子元素|
+| 选择器               | 示例                  | 说明                                       |
+| -------------------- | --------------------- | ------------------------------------------ |
+| :first-child         | p:first-child         | 选择所有 p 元素的第一个子元素              |
+| :last-child          | p:last-child          | 选择所有 p 元素的最后一个子元素            |
+| :first-of-type       | p:first-of-type       | 选择的每个 p 元素是其父元素的第一个 p 元素 |
+| :last-of-type        | p:last-of-type        | 选择每个p元素是其母元素的最后一个p元素     |
+| :not(selector)       | :not(p)               | 选择所有p以外的元素                        |
+| :nth-child(n)        | p:nth-child(2)        | 选择所有 p 元素的父元素的第二个子元素      |
+| :nth-last-child(n)   | p:nth-last-child(2)   | 选择所有p元素倒数的第二个子元素            |
+| :nth-last-of-type(n) | p:nth-last-of-type(2) | 选择所有p元素倒数的第二个为p的子元素       |
+| :nth-of-type(n)      | p:nth-of-type(2)      | 选择所有p元素第二个为p的子元素             |

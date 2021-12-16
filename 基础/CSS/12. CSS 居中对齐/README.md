@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-13 17:14:34
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-15 16:51:33
+ * @LastEditTime: 2021-12-16 09:52:06
  * @Description: CSS 居中对齐
 -->
 
@@ -22,7 +22,7 @@
 
 效果如下图所示:
 
-![图 19](../../images/1639558296234.png)  
+![](./images/1639558296234.png)  
 
 
 ## 定位 + `margin` 偏移

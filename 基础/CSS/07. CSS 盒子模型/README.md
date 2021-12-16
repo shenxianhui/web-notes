@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-13 17:08:53
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-15 16:46:10
+ * @LastEditTime: 2021-12-16 09:46:08
  * @Description: CSS 盒子模型
 -->
 
@@ -33,7 +33,7 @@ CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：�
 + Padding(内边距) - 清除内容周围的区域，内边距是透明的
 + Content(内容) - 盒子的内容，显示文本和图像
 
-![](../../images/1639557943900.png)
+![](./images/1639557943900.png)
 
 ## 外边距 `margin`
 CSS `margin` (外边距) 属性定义元素周围的空间
