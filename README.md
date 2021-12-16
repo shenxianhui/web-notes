@@ -2,43 +2,43 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-16 16:45:54
+ * @LastEditTime: 2021-12-16 16:56:00
  * @Description: 目录
 -->
 
 - # 基础
   - ## HTML
-    - [HTML 标题](./基础/HTML/HTML%20标题/README.md)
-    - [HTML 段落](./基础/HTML/HTML%20段落/README.md)
-    - [HTML 文本格式化](./基础/HTML/HTML%20文本格式化/README.md)
-    - [HTML 链接](./基础/HTML/HTML%20链接/README.md)
-    - [HTML 图像](./基础/HTML/HTML%20图像/README.md)
-    - [HTML 表格](./基础/HTML/HTML%20表格/README.md)
-    - [HTML 列表](./基础/HTML/HTML%20列表/README.md)
-    - [HTML 区块](./基础/HTML/HTML%20区块/README.md)
-    - [HTML 表单](./基础/HTML/HTML%20表单/README.md)
-    - [HTML 属性](./基础/HTML/HTML%20属性/README.md)
+    - [标题](./基础/HTML/标题/README.md)
+    - [段落](./基础/HTML/段落/README.md)
+    - [文本格式化](./基础/HTML/文本格式化/README.md)
+    - [链接](./基础/HTML/链接/README.md)
+    - [图像](./基础/HTML/图像/README.md)
+    - [表格](./基础/HTML/表格/README.md)
+    - [列表](./基础/HTML/列表/README.md)
+    - [区块](./基础/HTML/区块/README.md)
+    - [表单](./基础/HTML/表单/README.md)
+    - [属性](./基础/HTML/属性/README.md)
   - ## HTML5
-    - [HTML5 音频和视频](./基础/HTML5/HTML5%20音频和视频/README.md)
+    - [音频和视频](./基础/HTML5/音频和视频/README.md)
   - ## CSS
-    - [CSS 选择器](./基础/CSS/CSS%20选择器/README.md)
-    - [CSS 创建](./基础/CSS/CSS%20创建/README.md)
-    - [CSS 背景](./基础/CSS/CSS%20背景/README.md)
-    - [CSS 文本](./基础/CSS/CSS%20文本/README.md)
-    - [CSS 字体](./基础/CSS/CSS%20字体/README.md)
-    - [CSS 链接](./基础/CSS/CSS%20链接/README.md)
-    - [CSS 盒子模型](./基础/CSS/CSS%20盒子模型/README.md)
-    - [CSS 尺寸](./基础/CSS/CSS%20尺寸/README.md)
-    - [CSS 定位与层级](./基础/CSS/CSS%20定位与层级/README.md)
-    - [CSS 溢出 overflow](./基础/CSS/CSS%20溢出%20overflow/README.md)
-    - [CSS 浮动](./基础/CSS/CSS%20浮动/README.md)
-    - [CSS 居中对齐](./基础/CSS/CSS%20居中对齐/README.md)
-    - [CSS 伪类](./基础/CSS/CSS%20伪类/README.md)
-    - [CSS 其他常用属性](./基础/CSS/CSS%20其他常用属性/README.md)
+    - [选择器](./基础/CSS/选择器/README.md)
+    - [创建](./基础/CSS/创建/README.md)
+    - [背景](./基础/CSS/背景/README.md)
+    - [文本](./基础/CSS/文本/README.md)
+    - [字体](./基础/CSS/字体/README.md)
+    - [链接](./基础/CSS/链接/README.md)
+    - [盒子模型](./基础/CSS/盒子模型/README.md)
+    - [尺寸](./基础/CSS/尺寸/README.md)
+    - [定位与层级](./基础/CSS/定位与层级/README.md)
+    - [溢出](./基础/CSS/溢出/README.md)
+    - [浮动](./基础/CSS/浮动/README.md)
+    - [居中对齐](./基础/CSS/居中对齐/README.md)
+    - [伪类](./基础/CSS/伪类/README.md)
+    - [其他常用属性](./基础/CSS/其他常用属性/README.md)
   - ## CSS3
-    - [CSS3 圆角](./基础/CSS3/CSS3%20圆角/README.md)
-    - [CSS3 阴影与渐变](./基础/CSS3/CSS3%20阴影与渐变/README.md)
-    - [CSS3 转换&过渡&动画](./基础/CSS3/CSS3%20转换&过渡&动画/README.md)
+    - [圆角](./基础/CSS3/圆角/README.md)
+    - [阴影与渐变](./基础/CSS3/阴影与渐变/README.md)
+    - [转换&过渡&动画](./基础/CSS3/转换&过渡&动画/README.md)
     - [弹性盒子 (Flex 布局)](./基础/CSS3/弹性盒子%20(Flex%20布局)/README.md)
     - [页面布局](./基础/CSS3/页面布局/README.md)
   - ## JavaScript

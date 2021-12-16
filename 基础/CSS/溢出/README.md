@@ -2,16 +2,16 @@
  * @Author: shenxh
  * @Date: 2021-12-13 17:10:14
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-15 15:52:24
+ * @LastEditTime: 2021-12-16 16:56:55
  * @Description: CSS 溢出 overflow
 -->
 
-- [overflow](#overflow)
+- [溢出](#溢出)
   - [属性](#属性)
 - [场景](#场景)
   - [文字溢出出现省略号](#文字溢出出现省略号)
 
-# overflow
+# 溢出
 
 `overflow` 属性可以控制内容溢出元素框时在对应的元素区间内添加滚动条
 
