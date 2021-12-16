@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-16 11:28:05
+ * @LastEditTime: 2021-12-16 13:44:51
  * @Description: 目录
 -->
 
@@ -42,3 +42,12 @@
     - [04. 弹性盒子 (Flex 布局)](./基础/CSS3/04.%20弹性盒子%20(Flex%20布局)/README.md)
     - [05. 页面布局](./基础/CSS3/05.%20页面布局/README.md)
   - ## JavaScript
+- # 编码规范
+  - [HTML 编码规范](./编码规范/HTML%20编码规范/README.md)
+  - [CSS 编码规范](./编码规范/CSS%20编码规范/README.md)
+  - [JavaScript 编码规范](./编码规范/JavaScript%20编码规范/README.md)
+- # 工具
+  - ## VS Code
+    - [快捷键](./工具/VS%20Code/../VS%20Code/快捷键/README.md)
+    - [HTML 快速创建多个标签](./工具/VS%20Code/HTML%20快速创建多个标签/README.md)
+    - [必备插件推荐](./工具/VS%20Code/必备插件推荐/README.md)
