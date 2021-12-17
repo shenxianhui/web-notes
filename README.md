@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-17 14:36:05
+ * @LastEditTime: 2021-12-17 16:51:09
  * @Description: 目录
 -->
 
@@ -46,7 +46,7 @@
     - [输出](./基础/JavaScript/输出/README.md)
     - [选择器](./基础/JavaScript/选择器/README.md)
     - [语法](./基础/JavaScript/语法/README.md)
-    - [变量](./基础/JavaScript)
+    - [变量](./基础/JavaScript/变量/README.md)
     - [数据类型](./基础/JavaScript)
     - [操作符](./基础/JavaScript)
     - [对象](./基础/JavaScript)
