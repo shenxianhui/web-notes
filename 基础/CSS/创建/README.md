@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-13 17:06:50
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-15 15:51:22
+ * @LastEditTime: 2021-12-17 13:37:44
  * @Description: CSS 创建
 -->
 
@@ -41,15 +41,8 @@
 
 项目开发中使用外链式将利于维护
 
-每个页面使用 `<link>` 标签链接到样式表, `<link>` 标签在（文档的）头部
+每个页面使用 `<link>` 标签链接到样式表, `<link>` 标签在（文档的）头部, 同一个页面可以插入多个
 
-+ 样式文件 `myStyle.css`
-```
-div {
-  font-size: 28px;
-  color: #f00;
-}
-```
 + 演示文件 `index.html`
 ```
 <!DOCTYPE html>
@@ -63,6 +56,13 @@ div {
     </body>
 </html>
 
+```
++ 样式文件 `myStyle.css`
+```
+div {
+  font-size: 28px;
+  color: #f00;
+}
 ```
 
 # 样式优先级

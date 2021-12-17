@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-16 16:56:00
+ * @LastEditTime: 2021-12-17 13:39:50
  * @Description: 目录
 -->
 
@@ -21,8 +21,8 @@
   - ## HTML5
     - [音频和视频](./基础/HTML5/音频和视频/README.md)
   - ## CSS
-    - [选择器](./基础/CSS/选择器/README.md)
     - [创建](./基础/CSS/创建/README.md)
+    - [选择器](./基础/CSS/选择器/README.md)
     - [背景](./基础/CSS/背景/README.md)
     - [文本](./基础/CSS/文本/README.md)
     - [字体](./基础/CSS/字体/README.md)
@@ -42,7 +42,9 @@
     - [弹性盒子 (Flex 布局)](./基础/CSS3/弹性盒子%20(Flex%20布局)/README.md)
     - [页面布局](./基础/CSS3/页面布局/README.md)
   - ## JavaScript
-    - [输出](./基础/JavaScript)
+    - [创建](./基础/JavaScript/创建/README.md)
+    - [输出](./基础/JavaScript/输出/README.md)
+    - [选择器](./基础/JavaScript/选择器/README.md)
     - [语法](./基础/JavaScript)
     - [变量](./基础/JavaScript)
     - [数据类型](./基础/JavaScript)
