@@ -2,9 +2,13 @@
  * @Author: shenxh
  * @Date: 2021-12-17 14:37:55
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-17 16:50:34
+ * @LastEditTime: 2021-12-17 16:52:50
  * @Description: 变量
 -->
+
+- [变量](#变量)
+  - [var 关键字](#var-关键字)
+  - [let 声明与 const 声明](#let-声明与-const-声明)
 
 # 变量
 变量是松散类型的，意思是变量可以用于保存任何类型的数据
