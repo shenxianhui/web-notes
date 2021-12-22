@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-17 16:53:42
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-22 11:29:54
+ * @LastEditTime: 2021-12-22 15:36:54
  * @Description: 数据类型
 -->
 
@@ -18,7 +18,7 @@ JavaScript 有 6 种简单数据类型（也称为原始类型）：`Undefined`�
 ## 基本数据类型 / 简单数据类型 / 原始类型
 + [Undefined 未定义](./Undefined%20类型/README.md)
 + [Null 空](./Null%20类型/README.md)
-+ [Boolean 布尔]()
++ [Boolean 布尔](./Boolean%20类型/README.md)
 + [Number 数字](./Number%20类型/README.md)
 + [String 字符串](./String%20类型/README.md)
 + [Symbol 符号 (ES6 新增)]()
