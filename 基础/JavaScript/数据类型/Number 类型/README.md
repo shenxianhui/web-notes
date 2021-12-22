@@ -3,10 +3,10 @@
  * @Author: shenxh
  * @Date: 2021-12-21 15:39:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-21 16:19:05
+ * @LastEditTime: 2021-12-22 11:15:07
 -->
 
-- [`Number` (数字) 类型](#number-数字-类型)
+- [Number (数字) 类型](#number-数字-类型)
   - [浮点数](#浮点数)
   - [值的范围](#值的范围)
   - [NaN](#nan)
@@ -15,7 +15,7 @@
     - [`parseInt()` 函数](#parseint-函数)
     - [`parseFloat()` 函数](#parsefloat-函数)
 
-# `Number` (数字) 类型
+# Number (数字) 类型
 最基本的数值字面量格式是十进制整数，直接写出来即可：
 
 ```
