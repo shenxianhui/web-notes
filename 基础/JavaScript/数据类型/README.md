@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-17 16:53:42
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-22 11:20:06
+ * @LastEditTime: 2021-12-22 11:29:54
  * @Description: 数据类型
 -->
 
@@ -13,12 +13,11 @@
   - [`typeof` 操作符](#typeof-操作符)
 
 # 数据类型分类
-JavaScript 有 6 种简单数据类型（也称为原始类型）：`Undefined`、`Null`、`Boolean`、`Number`、`String` 和 `Symbol`。`Symbol`（符号）是 ECMAScript 6 新增的。还有一种复杂数据类型叫 `Object`（对
-象）。`Object` 是一种无序名值对的集合。因为在 JavaScript 中不能定义自己的数据类型，所有值都可以用上述 7 种数据类型之一来表示
+JavaScript 有 6 种简单数据类型（也称为原始类型）：`Undefined`、`Null`、`Boolean`、`Number`、`String` 和 `Symbol`。`Symbol`（符号）是 ECMAScript 6 新增的。还有一种复杂数据类型叫 `Object`（对象）。`Object` 是一种无序名值对的集合。因为在 JavaScript 中不能定义自己的数据类型，所有值都可以用上述 7 种数据类型之一来表示
 
 ## 基本数据类型 / 简单数据类型 / 原始类型
 + [Undefined 未定义](./Undefined%20类型/README.md)
-+ [Null 空]()
++ [Null 空](./Null%20类型/README.md)
 + [Boolean 布尔]()
 + [Number 数字](./Number%20类型/README.md)
 + [String 字符串](./String%20类型/README.md)
