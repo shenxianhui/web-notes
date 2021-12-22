@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-22 15:37:05
+ * @LastEditTime: 2021-12-22 15:44:16
  * @Description: 目录
 -->
 
@@ -53,7 +53,7 @@
       - [Boolean 类型](./基础/JavaScript/数据类型/Boolean%20类型/README.md)
       - [Number 类型](./基础/JavaScript/数据类型/Number%20类型/README.md)
       - [String 类型](./基础/JavaScript/数据类型/String%20类型/README.md)
-      - [Symbol 类型](./基础/JavaScript/数据类型)
+      - [Symbol 类型](./基础/JavaScript/数据类型/Symbol%20类型/README.md)
       - [Object 类型](./基础/JavaScript/数据类型)
     - [操作符](./基础/JavaScript)
     - [对象](./基础/JavaScript)
