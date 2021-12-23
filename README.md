@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-22 16:16:52
+ * @LastEditTime: 2021-12-23 13:46:51
  * @Description: 目录
 -->
 
@@ -55,7 +55,9 @@
       - [String 类型](./基础/JavaScript/数据类型/String%20类型/README.md)
       - [Symbol 类型](./基础/JavaScript/数据类型/Symbol%20类型/README.md)
       - [Object 类型](./基础/JavaScript/数据类型/Object%20类型/README.md)
-    - [操作符](./基础/JavaScript)
+    - [操作符](./基础/JavaScript/操作符/README.md)
+    - [语句](./基础/JavaScript)
+    - [作用域](./基础/JavaScript)
     - [对象](./基础/JavaScript)
       - [Boolean 布尔](./基础/JavaScript)
       - [Number 数字](./基础/JavaScript)
@@ -66,11 +68,9 @@
       - [Object 对象](./基础/JavaScript)
       - [Array 数组](./基础/JavaScript)
     - [函数](./基础/JavaScript)
-    - [作用域](./基础/JavaScript)
     - [定时器](./基础/JavaScript)
     - [闭包](./基础/JavaScript)
     - [事件](./基础/JavaScript)
-    - [语句](./基础/JavaScript)
     - [this](./基础/JavaScript)
     - [JSON](./基础/JavaScript)
     - [Promise](./基础/JavaScript)
