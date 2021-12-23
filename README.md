@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-23 15:34:16
+ * @LastEditTime: 2021-12-23 19:53:30
  * @Description: 目录
 -->
 
@@ -57,7 +57,7 @@
       - [Object 类型](./基础/JavaScript/数据类型/Object%20类型/README.md)
     - [操作符](./基础/JavaScript/操作符/README.md)
     - [语句](./基础/JavaScript/语句/README.md)
-    - [作用域](./基础/JavaScript)
+    - [作用域](./基础/JavaScript/作用域/README.md)
     - [对象](./基础/JavaScript)
       - [Boolean 布尔](./基础/JavaScript)
       - [Number 数字](./基础/JavaScript)
