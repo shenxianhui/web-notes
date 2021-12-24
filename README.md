@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-23 19:53:30
+ * @LastEditTime: 2021-12-24 13:54:14
  * @Description: 目录
 -->
 
@@ -58,16 +58,16 @@
     - [操作符](./基础/JavaScript/操作符/README.md)
     - [语句](./基础/JavaScript/语句/README.md)
     - [作用域](./基础/JavaScript/作用域/README.md)
-    - [对象](./基础/JavaScript)
+    - **对象**
+      - [Date 日期](./基础/JavaScript/对象/日期/README.md)
+      - [RegExp 正则](./基础/JavaScript)
       - [Boolean 布尔](./基础/JavaScript)
       - [Number 数字](./基础/JavaScript)
       - [String 字符串](./基础/JavaScript)
-      - [Date 日期](./基础/JavaScript)
-      - [RegExp 正则](./基础/JavaScript)
       - [Math 数学](./基础/JavaScript)
       - [Object 对象](./基础/JavaScript)
       - [Array 数组](./基础/JavaScript)
-    - [函数](./基础/JavaScript)
+      - [Function 函数](./基础/JavaScript)
     - [定时器](./基础/JavaScript)
     - [闭包](./基础/JavaScript)
     - [事件](./基础/JavaScript)
