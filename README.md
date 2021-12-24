@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-24 16:55:02
+ * @LastEditTime: 2021-12-24 17:06:09
  * @Description: 目录
 -->
 
@@ -61,7 +61,7 @@
     - **对象**
       - [Date 日期](./基础/JavaScript/对象/日期/README.md)
       - [RegExp 正则](./基础/JavaScript/对象/正则/README.md)
-      - [Boolean 布尔](./基础/JavaScript)
+      - [Boolean 布尔](./基础/JavaScript/对象/布尔/README.md)
       - [Number 数字](./基础/JavaScript)
       - [String 字符串](./基础/JavaScript)
       - [Math 数学](./基础/JavaScript)
