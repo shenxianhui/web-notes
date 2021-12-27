@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2021-12-27 15:04:55
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-27 16:03:25
+ * @LastEditTime: 2021-12-27 16:07:52
 -->
 
 - [Math 数学](#math-数学)
@@ -67,9 +67,6 @@ console.log(Math.floor(25.1)); // 25
 ## random() 方法
 `Math.random()` 方法返回一个 0~1 范围内的随机数，其中**包含 0 但不包含 1**。
 
-对于希望显示随机名言或随机新闻的网页，这个方法是非常方便的。可以基于如下公式使用 `Math.random()` 从一组整数中随机选择一个数：
-
-
 如果想从 1~10 范围内随机选择一个数，代码就是这样的：
 
 ```
@@ -101,11 +98,3 @@ let num = Math.round(Math.random() * 9 + 1);
 |`Math.cos(x)`|返回 x 的余弦|
 |`Math.sin(x)`|返回 x 的正弦|
 |`Math.tan(x)`|返回 x 的正切|
-
-
-
-
-
-
-
-
