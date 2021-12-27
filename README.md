@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-27 09:47:21
+ * @LastEditTime: 2021-12-27 14:42:51
  * @Description: 目录
 -->
 
@@ -63,7 +63,7 @@
       - [RegExp 正则](./基础/JavaScript/对象/正则/README.md)
       - [Boolean 布尔](./基础/JavaScript/对象/布尔/README.md)
       - [Number 数字](./基础/JavaScript/对象/数字/README.md)
-      - [String 字符串](./基础/JavaScript/对象)
+      - [String 字符串](./基础/JavaScript/对象/字符串/README.md)
       - [Math 数学](./基础/JavaScript/对象)
       - [Object 对象](./基础/JavaScript/对象)
       - [Array 数组](./基础/JavaScript/对象)
