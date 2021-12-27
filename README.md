@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-27 14:42:51
+ * @LastEditTime: 2021-12-27 16:05:36
  * @Description: 目录
 -->
 
@@ -64,7 +64,7 @@
       - [Boolean 布尔](./基础/JavaScript/对象/布尔/README.md)
       - [Number 数字](./基础/JavaScript/对象/数字/README.md)
       - [String 字符串](./基础/JavaScript/对象/字符串/README.md)
-      - [Math 数学](./基础/JavaScript/对象)
+      - [Math 数学](./基础/JavaScript/对象/数学/README.md)
       - [Object 对象](./基础/JavaScript/对象)
       - [Array 数组](./基础/JavaScript/对象)
       - [Function 函数](./基础/JavaScript/对象)
