@@ -3,13 +3,13 @@
  * @Author: shenxh
  * @Date: 2021-12-24 14:10:48
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-24 16:54:52
+ * @LastEditTime: 2021-12-27 16:14:03
 -->
 
 - [RegExp](#regexp)
 
 # RegExp
-JavaScript 通过 RegExp 类型支持正则表达式。正则表达式使用类似 Perl 的简洁语法来创建：
+ECMAScript 通过 RegExp 类型支持正则表达式。正则表达式使用类似 Perl 的简洁语法来创建：
 
 ```
 let expression = /pattern/flags;

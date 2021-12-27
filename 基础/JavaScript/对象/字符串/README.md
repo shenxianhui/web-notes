@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2021-12-27 09:51:47
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-27 15:02:02
+ * @LastEditTime: 2021-12-27 16:12:45
 -->
 
 - [String](#string)
@@ -138,7 +138,7 @@ console.log(result); // "hello world"
 ```
 
 ### slice()、substr() 和 substring()
-JavaScript 提供了 3 个从字符串中提取子字符串的方法：`slice()`、`substr()` 和 `substring()`。
+ECMAScript 提供了 3 个从字符串中提取子字符串的方法：`slice()`、`substr()` 和 `substring()`。
 
 这3个方法都返回调用它们的字符串的一个子字符串，而且都接收一或两个参数。第一个参数表示子字符串开始的位置，第二个参数表示子字符串结束的位置。
 

@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2021-12-23 14:10:54
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-23 15:34:06
+ * @LastEditTime: 2021-12-27 16:17:58
 -->
 
 - [if 语句](#if-语句)
@@ -66,7 +66,7 @@ for (let propName in obj) {
 // age
 ```
 
-JavaScript 中对象的属性是无序的，因此 for-in 语句不能保证返回对象属性的顺序。换句话说，所有可枚举的属性都会返回一次，但返回的顺序可能会因浏览器而异
+ECMAScript 中对象的属性是无序的，因此 for-in 语句不能保证返回对象属性的顺序。换句话说，所有可枚举的属性都会返回一次，但返回的顺序可能会因浏览器而异
 
 如果 for-in 循环要迭代的变量是 `null` 或 `undefined`，则不执行循环体。
 

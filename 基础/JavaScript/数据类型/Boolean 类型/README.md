@@ -3,13 +3,13 @@
  * @Author: shenxh
  * @Date: 2021-12-22 11:31:41
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-22 15:36:46
+ * @LastEditTime: 2021-12-27 16:16:55
 -->
 
 - [Boolean (布尔) 类型](#boolean-布尔-类型)
 
 # Boolean (布尔) 类型
-Boolean（布尔值）类型是 JavaScript 中使用最频繁的类型之一，有两个字面值：`true` 和 `false`。
+Boolean（布尔值）类型是 ECMAScript 中使用最频繁的类型之一，有两个字面值：`true` 和 `false`。
 
 下面是给变量赋布尔值的例子：
 
@@ -20,7 +20,7 @@ let lost = false;
 
 注意，布尔值字面量 `true` 和 `false` 是区分大小写的，因此 True 和 False（及其他大小混写形式）是有效的标识符，但不是布尔值。
 
-虽然布尔值只有两个，但所有其他 JavaScript 类型的值都有相应布尔值的等价形式。要将一个其他类型的值转换为布尔值，可以调用特定的 `Boolean()` 转型函数：
+虽然布尔值只有两个，但所有其他 ECMAScript 类型的值都有相应布尔值的等价形式。要将一个其他类型的值转换为布尔值，可以调用特定的 `Boolean()` 转型函数：
 
 ```
 let message = "Hello world!";
