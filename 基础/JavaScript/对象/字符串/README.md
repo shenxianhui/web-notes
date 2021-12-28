@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2021-12-27 09:51:47
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-27 16:12:45
+ * @LastEditTime: 2021-12-28 09:21:24
 -->
 
 - [String](#string)
@@ -54,28 +54,28 @@ console.log(stringValue.length); // 11
 # 字符串方法总结
 |方法|描述|备注|
 |-|-|-|
-|[`charAt()`](#charat)|返回指定位置的字符||
-|[`charCodeAt()`](#charcodeat)|返回指定位置的字符的 Unicode 编码||
-|[`concat()`](#concat)|字符串拼接, 返回拼接得到的新字符串||
-|[`slice()`](#slicesubstr-和-substring)|提取字符串的片断，并在新的字符串中返回被提取的部分||
-|[`substr()`](#slicesubstr-和-substring)|从起始索引号提取字符串中指定数目的字符 (包前不包后)||
-|[`substring()`](#slicesubstr-和-substring)|提取字符串中两个指定的索引号之间的字符 (包前不包后)||
-|[`indexOf()`](#indexof-和-lastindexof)|返回某个指定的字符串值在字符串中首次出现的位置||
-|[`lastIndexOf()`](#indexof-和-lastindexof)|从后向前搜索字符串，并从起始位置（0）开始计算返回字符串最后出现的位置||
-|[`startsWith()`](#startswithendswith-和-includes)|确定一个字符串是否在另一个字符串头部|ES6|
-|[`endsWith()`](#startswithendswith-和-includes)|确定一个字符串是否在另一个字符串尾部|ES6|
-|[`includes()`](#startswithendswith-和-includes)|确定一个字符串是否包含在另一个字符串中|ES6|
-|[`trim()`](#trim-方法)|去除字符串两边的空白||
-|[`repeat()`](#repeat-方法)|重复原字符串|ES6|
-|[`padStart()`](#padstart-和-padend-方法)|在头部补全字符串|ES6|
-|[`padEnd()`](#padstart-和-padend-方法)|在尾部补全字符串|ES6|
-|[`toLowerCase()`](#tolowercase)|把字符串转换为小写||
-|[`toUpperCase()`](#touppercase)|把字符串转换为大写||
-|[`match()`](#match)|查找找到一个或多个正则表达式的匹配||
-|[`search()`](#search)|返回字符串中第一个匹配项的索引如果没有找到匹配项, 则返回 -1||
-|[`replace()`](#replace)|在字符串中查找匹配的子串，并替换与正则表达式匹配的子串||
-|[`split()`](#split)|把字符串分割为字符串数组|字符串转数组|
-|[`localeCompare()`](#localecompare-方法)|比较两个字符串的字符顺序||
+|[charAt()](#charat)|返回指定位置的字符||
+|[charCodeAt()](#charcodeat)|返回指定位置的字符的 Unicode 编码||
+|[concat()](#concat)|字符串拼接, 返回拼接得到的新字符串||
+|[slice()](#slicesubstr-和-substring)|提取字符串的片断，并在新的字符串中返回被提取的部分||
+|[substr()](#slicesubstr-和-substring)|从起始索引号提取字符串中指定数目的字符 (包前不包后)||
+|[substring()](#slicesubstr-和-substring)|提取字符串中两个指定的索引号之间的字符 (包前不包后)||
+|[indexOf()](#indexof-和-lastindexof)|返回某个指定的字符串值在字符串中首次出现的位置||
+|[lastIndexOf()](#indexof-和-lastindexof)|从后向前搜索字符串，并从起始位置（0）开始计算返回字符串最后出现的位置||
+|[startsWith()](#startswithendswith-和-includes)|确定一个字符串是否在另一个字符串头部|ES6|
+|[endsWith()](#startswithendswith-和-includes)|确定一个字符串是否在另一个字符串尾部|ES6|
+|[includes()](#startswithendswith-和-includes)|确定一个字符串是否包含在另一个字符串中|ES6|
+|[trim()](#trim-方法)|去除字符串两边的空白||
+|[repeat()](#repeat-方法)|重复原字符串|ES6|
+|[padStart()](#padstart-和-padend-方法)|在头部补全字符串|ES6|
+|[padEnd()](#padstart-和-padend-方法)|在尾部补全字符串|ES6|
+|[toLowerCase()](#tolowercase)|把字符串转换为小写||
+|[toUpperCase()](#touppercase)|把字符串转换为大写||
+|[match()](#match)|查找找到一个或多个正则表达式的匹配||
+|[search()](#search)|返回字符串中第一个匹配项的索引如果没有找到匹配项, 则返回 -1||
+|[replace()](#replace)|在字符串中查找匹配的子串，并替换与正则表达式匹配的子串||
+|[split()](#split)|把字符串分割为字符串数组|字符串转数组|
+|[localeCompare()](#localecompare-方法)|比较两个字符串的字符顺序||
 
 ## JavaScript 字符
 
