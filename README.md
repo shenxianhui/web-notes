@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-29 15:54:18
+ * @LastEditTime: 2021-12-29 16:21:42
  * @Description: 目录
 -->
 
@@ -74,7 +74,7 @@
     - [JSON](./基础/JavaScript)
     - [Promise](./基础/JavaScript)
     - [websocket](./基础/JavaScript)
-    - [浏览器缓存](./基础/JavaScript)
+    - [浏览器缓存](./基础/JavaScript/浏览器缓存/README.md)
 - # 编码规范
   - [HTML 编码规范](./编码规范/HTML%20编码规范/README.md)
   - [CSS 编码规范](./编码规范/CSS%20编码规范/README.md)
