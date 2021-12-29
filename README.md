@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-29 11:07:08
+ * @LastEditTime: 2021-12-29 11:10:05
  * @Description: 目录
 -->
 
@@ -69,7 +69,7 @@
       - [Array 数组](./基础/JavaScript/对象/数组/README.md)
       - [Function 函数](./基础/JavaScript/对象/函数/README.md)
     - [定时器](./基础/JavaScript/定时器/README.md)
-    - [闭包](./基础/JavaScript)
+    - [闭包](./基础/JavaScript/闭包/README.md)
     - [事件](./基础/JavaScript)
     - [JSON](./基础/JavaScript)
     - [Promise](./基础/JavaScript)
