@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-29 16:21:42
+ * @LastEditTime: 2021-12-29 17:06:45
  * @Description: 目录
 -->
 
@@ -71,7 +71,7 @@
     - [定时器](./基础/JavaScript/定时器/README.md)
     - [闭包](./基础/JavaScript/闭包/README.md)
     - [事件](./基础/JavaScript/事件/README.md)
-    - [JSON](./基础/JavaScript)
+    - [JSON](./基础/JavaScript/JSON/README.md)
     - [Promise](./基础/JavaScript)
     - [websocket](./基础/JavaScript)
     - [浏览器缓存](./基础/JavaScript/浏览器缓存/README.md)
