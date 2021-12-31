@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-31 10:05:25
+ * @LastEditTime: 2021-12-31 10:57:46
  * @Description: 目录
 -->
 
@@ -72,7 +72,7 @@
     - [闭包](./基础/JavaScript/闭包/README.md)
     - [事件](./基础/JavaScript/事件/README.md)
     - [JSON](./基础/JavaScript/JSON/README.md)
-    - [Promise](./基础/JavaScript)
+    - [Promise](./基础/JavaScript/Promise/README.md)
     - [WebSocket](./基础/JavaScript/WebSocket/README.md)
     - [浏览器缓存](./基础/JavaScript/浏览器缓存/README.md)
 - # 编码规范

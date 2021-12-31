@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2021-12-29 11:13:37
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-29 15:53:17
+ * @LastEditTime: 2021-12-31 10:39:41
 -->
 
 - [事件](#事件)
@@ -25,9 +25,6 @@
     - [拖放事件](#拖放事件)
 
 # 事件
-
-> 附 [MDN 事件参考文档](https://developer.mozilla.org/zh-CN/docs/Web/Events)
-
 在 Web 中, 事件在浏览器窗口中被触发并且通常被绑定到窗口内部的特定部分 — 可能是一个元素、一系列元素、被加载到这个窗口的 HTML 代码或者是整个浏览器窗口。
 
 ## 用法示例
@@ -257,3 +254,6 @@ function handleBtn(e) {
 |dragleave|被拖动的元素或文本选区移出有效释放目标区|
 |dragover|被拖动的元素或文本选区正在有效释放目标上被拖动 （在此过程中持续触发，每350ms触发一次）|
 |drop|元素在有效释放目标区上释放|
+
+> 附 [MDN 事件参考文档](https://developer.mozilla.org/zh-CN/docs/Web/Events)
+> 
