@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-16 13:33:23
  * @LastEditors: shenxh
- * @LastEditTime: 2021-12-16 13:34:37
+ * @LastEditTime: 2021-12-30 12:08:37
  * @Description: 必备插件推荐
 -->
 
@@ -43,6 +43,7 @@
 |koroFileHeader|文件头部注释 (不会被格式化)||
 |Live Server|浏览器实时刷新|![](https://upload-images.jianshu.io/upload_images/4804567-2b86475e8aebe125.gif?imageMogr2/auto-orient/strip)|
 |Markdown Image|将粘贴板中的图片以本地存储的方式创建<br/>快捷键: `Shift` + `Alt` + `V`|![](https://upload-images.jianshu.io/upload_images/4804567-83b52b76e5337e59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
+|Markdown All in One|生成TOC<br/>打开命令面板 (`Ctrl` + `Shift` + `P`), 搜索"创建目录"即可生成 TOC||
 |Markdown Preview Enhanced|超级强大的 Markdown 插件, 这款插件意在让你拥有飘逸的 Markdown 写作体验 [查看文档](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)|![](https://upload-images.jianshu.io/upload_images/4804567-cce0df0d2ebed889.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
 |minapp|微信小程序标签、属性的智能补全（同时支持原生小程序、mpvue 和 wepy 框架，并提供 snippets）|![](https://upload-images.jianshu.io/upload_images/4804567-d1e7eb47e530b0e4.gif?imageMogr2/auto-orient/strip)|
 |Node.js Modules Intellisense|可以在导入语句中自动完成JavaScript / TypeScript模块|![](https://upload-images.jianshu.io/upload_images/4804567-5fc248ab1dc9820d.gif?imageMogr2/auto-orient/strip)|
