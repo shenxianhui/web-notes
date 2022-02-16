@@ -3,7 +3,7 @@
  * @Author: shenxh
  * @Date: 2022-02-16 15:32:11
  * @LastEditors: shenxh
- * @LastEditTime: 2022-02-16 16:47:02
+ * @LastEditTime: 2022-02-16 16:59:03
 -->
 
 - [介绍](#介绍)
@@ -78,9 +78,9 @@ vue create hello-world
 下方向键, 选择 "Use NPM", 回车
 ```
 
-![图 33](images/1645000941967.png)
+![](images/1645002015162.png)
 
-安装成功后, 可用 VS Code 编辑器打开该项目
+创建成功后, 可用 VS Code 编辑器打开该项目
 
 输入 `npm run serve` 运行项目
 
