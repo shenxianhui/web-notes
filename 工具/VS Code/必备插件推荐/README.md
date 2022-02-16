@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-16 13:33:23
  * @LastEditors: shenxh
- * @LastEditTime: 2022-02-16 14:52:47
+ * @LastEditTime: 2022-02-16 15:56:57
  * @Description: 必备插件推荐
 -->
 
@@ -43,7 +43,7 @@
 |koroFileHeader|文件头部注释 (不会被格式化)||
 |Live Server|浏览器实时刷新|![](images/1644993825533.gif)|
 |Markdown Image|将粘贴板中的图片以本地存储的方式创建<br/>快捷键: `Shift` + `Alt` + `V`|![](images/1644993865957.webp)|
-|Markdown Preview Enhanced|超级强大的 Markdown 插件, 这款插件意在让你拥有飘逸的 Markdown 写作体验 [查看文档](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)|![](images/1644993931656.webp)|
+|Markdown All in One|超级强大的 Markdown 插件, 可生成目录 (`Ctrl` + `Shift` + `P`, 输入 `>Markdown All in One: 创建目录`)|![](images/1644998173295.gif)|
 |minapp|微信小程序标签、属性的智能补全（同时支持原生小程序、mpvue 和 wepy 框架，并提供 snippets）|![](images/1644993959849.webp)|
 |Node.js Modules Intellisense|可以在导入语句中自动完成JavaScript / TypeScript模块|![](images/1644993979980.gif)|
 |npm Intellisense|require 时的包提示|![](images/1644994005787.webp)|
