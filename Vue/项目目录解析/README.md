@@ -1,107 +1,97 @@
 <!--
- * @Description: 开发流程
+ * @Description: 项目目录解析
  * @Author: shenxh
  * @Date: 2022-02-17 08:58:28
  * @LastEditors: shenxh
- * @LastEditTime: 2022-02-17 11:20:25
+ * @LastEditTime: 2022-02-17 13:27:14
 -->
 
-- [安装脚手架 (vue-cli)](#安装脚手架-vue-cli)
-- [项目目录](#项目目录)
-  - [`node_modules`](#node_modules)
-  - [`public`](#public)
-    - [`favicon.ico`](#faviconico)
-    - [`index.html`](#indexhtml)
-  - [`src`](#src)
-    - [`assets`](#assets)
-      - [`css`](#css)
-      - [`font`](#font)
-      - [`img`](#img)
-      - [`js`](#js)
-    - [`components`](#components)
-    - [`router`](#router)
-    - [`store`](#store)
-    - [`utils`](#utils)
-    - [`views`](#views)
-    - [`App.vue`](#appvue)
-    - [`main.js`](#mainjs)
-  - [`.gitignore`](#gitignore)
-  - [`babel.config.js`](#babelconfigjs)
-  - [`package-lock.json`](#package-lockjson)
-  - [`package.json`](#packagejson)
-  - [`README.md`](#readmemd)
+- [`node_modules`](#node_modules)
+- [`public`](#public)
+  - [`favicon.ico`](#faviconico)
+  - [`index.html`](#indexhtml)
+- [`src`](#src)
+  - [`assets`](#assets)
+    - [`css`](#css)
+    - [`font`](#font)
+    - [`img`](#img)
+    - [`js`](#js)
+  - [`components`](#components)
+  - [`router`](#router)
+  - [`store`](#store)
+  - [`utils`](#utils)
+  - [`views`](#views)
+  - [`App.vue`](#appvue)
+  - [`main.js`](#mainjs)
+- [`.gitignore`](#gitignore)
+- [`babel.config.js`](#babelconfigjs)
+- [`package-lock.json`](#package-lockjson)
+- [`package.json`](#packagejson)
+- [`README.md`](#readmemd)
 
-# 安装脚手架 (vue-cli)
-[查看教程](../脚手架/README.md)
-
-# 项目目录
-![](images/1645060583421.png)
-
-> 注: 除了脚手架生成的目录外, 我们又新增了一些, 在使用到相关功能时创建即可
-
-## `node_modules`
+# `node_modules`
 npm 加载的项目依赖模块
 
-## `public`
+# `public`
 存放一些公共资源 (不会被 webpack 打包)
 
-### `favicon.ico`
+## `favicon.ico`
 浏览器标签图标
 
 ![](images/1645064822881.png)
 
-### `index.html`
+## `index.html`
 首页入口文件
 
-## `src`
+# `src`
 项目开发的目录, 基本上要做的事情都在这个目录里
 
-### `assets`
+## `assets`
 放置静态资源, 包括公共的 css 文件、js 文件、iconfont 字体文件、img 图片文件以及其他资源类文件. 之所以强调是公共的 css 文件, 是因为要在组件的 css 标签里加入 `scoped` 标记, 将其作用范围限制在此组件以及调用它的父级组件中, 避免污染全局样式
 
-#### `css`
+### `css`
 用于存放样式文件
 
-#### `font`
+### `font`
 用于存放字体文件
 
-#### `img`
+### `img`
 用于存放图片
 
-#### `js`
+### `js`
 用于存放脚本文件
 
-### `components`
+## `components`
 放置通用模块组件. 项目里总会有一些复用的组件, 例如弹出框、发送手机验证码、图片上传等, 将它们作为通用组件, 避免重复工作
 
-### `router`
+## `router`
 放置路由配置文件
 
-### `store`
+## `store`
 放置 vuex 需要的状态关联文件
 
-### `utils`
+## `utils`
 放置一些公共的方法, 例如: 日期格式化、数据校验规则等
 
-### `views`
+## `views`
 放置主要页面的组件. 通常是这里的组件本身写入一些结构, 再引入通用模块组件, 形成完整的页面
 
-### `App.vue`
+## `App.vue`
 项目入口组件, views 里的组件会被插入此组件中, 此组件再插入到 `index.html` 文件里, 形成**单页面**应用
 
-### `main.js`
+## `main.js`
 入口 js 文件, 影响全局, 作用是引入全局使用的库、公共样式和方法等
 
-## `.gitignore`
+# `.gitignore`
 git 配置文件, 告诉 git 哪些文件不需要上传至 git 仓库
 
-## `babel.config.js`
+# `babel.config.js`
 Babel 的配置文件, 将 ES6 转换为 ES5, 兼容旧版本浏览器
 
-## `package-lock.json`
+# `package-lock.json`
 锁定安装时的包的版本号, 并且需要上传到 git, 以保证其他人在 `npm install` 时大家的依赖能保证一致
 
-## `package.json`
+# `package.json`
 定义了这个项目所需要的各种模块, 以及项目的配置信息 (比如名称、版本、许可证等元数据). `npm install` 命令根据这个配置文件, 自动下载所需的模块, 也就是配置项目所需的运行和开发环境
 
 ```
@@ -176,5 +166,5 @@ npm install express --save
 npm install express --save-dev
 ```
 
-## `README.md`
+# `README.md`
 项目说明文档, 遵循 markdown 语法

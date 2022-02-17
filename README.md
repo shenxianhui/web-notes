@@ -2,7 +2,7 @@
  * @Author: shenxh
  * @Date: 2021-12-15 17:14:29
  * @LastEditors: shenxh
- * @LastEditTime: 2022-02-17 08:58:13
+ * @LastEditTime: 2022-02-17 11:41:02
  * @Description: 目录
 -->
 
@@ -77,7 +77,7 @@
     - [浏览器缓存](./基础/JavaScript/浏览器缓存/README.md)
 - # Vue
   - [脚手架](./Vue/脚手架/README.md)
-  - [开发流程](Vue/开发流程/README.md)
+  - [项目目录解析](Vue/项目目录解析/README.md)
 - # 编码规范
   - [HTML 编码规范](./编码规范/HTML%20编码规范/README.md)
   - [CSS 编码规范](./编码规范/CSS%20编码规范/README.md)
